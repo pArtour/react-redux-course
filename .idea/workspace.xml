@@ -11,11 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ee92ed2-0c05-42c2-a3df-028c7a37535c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seasons-app/src/SeasonDisplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seasons-app/src/Spinner.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons-app/src/SeasonDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/seasons-app/src/SeasonDisplay.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seasons-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/seasons-app/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -46,6 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -80,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589021303961</updated>
       <workItem from="1589021310142" duration="19697000" />
-      <workItem from="1589178898499" duration="1742000" />
+      <workItem from="1589178898499" duration="5042000" />
     </task>
     <servers />
   </component>
