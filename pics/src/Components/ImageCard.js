@@ -5,7 +5,8 @@ class ImageCard extends React.Component {
         super(props);
         this.imageRef = React.createRef(); // this.imageRef is an simple instance variable!
     }
-    state = { spans: 0 }
+    state = { spans: 0 };
+
     setSpans = () => {
         try {
             const height = this.imageRef.current.clientHeight;

@@ -12,7 +12,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7ee92ed2-0c05-42c2-a3df-028c7a37535c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/src/Components/ImageList.js" beforeDir="false" afterPath="$PROJECT_DIR$/pics/src/Components/ImageList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/Components/ImageCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/pics/src/Components/ImageCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/Components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/pics/src/Components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/videos/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/videos/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/videos/src/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/videos/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +88,10 @@
       <workItem from="1589021310142" duration="19697000" />
       <workItem from="1589178898499" duration="17673000" />
       <workItem from="1589265154594" duration="5120000" />
+      <workItem from="1589273294205" duration="767000" />
+      <workItem from="1589285908203" duration="6588000" />
+      <workItem from="1589442054684" duration="1380000" />
+      <workItem from="1589468081509" duration="4757000" />
     </task>
     <servers />
   </component>
@@ -102,13 +111,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1096" y="244" key="run.anything.popup" timestamp="1589121238938">
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1589378481258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589121238938" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589094813556">
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589378481258" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589468732075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589094813556" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589468732075" />
   </component>
 </project>
